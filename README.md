@@ -2,6 +2,10 @@
 
 A Claude Code skill that builds a complete personal brand strategy for Solana founders on X. Includes a founder archetype system, writing style guide, and 10 ready-to-post example posts written in your actual voice.
 
+**[Live preview](https://lilacchio.github.io/launch-signal/)**
+
+![founder-freq hero](https://lilacchio.github.io/launch-signal/screenshots/hero.png)
+
 ## Install
 
 ```bash
@@ -22,6 +26,8 @@ A project account talks about the product. A founder account talks about the per
 - Weekly posting rhythm and best times for the Solana audience
 - Engagement playbook with cold-start tactics (for founders under 1,000 followers)
 - 10 fully written example posts across all formats, ready to post
+
+![archetype output](https://lilacchio.github.io/launch-signal/screenshots/output-section.png)
 
 ## How to use
 
@@ -51,6 +57,8 @@ Claude will ask for:
 | Strategist | Analytical, predictive | Track record |
 
 Most founders are a blend of two. The skill identifies your primary (dominant) and secondary (complement) and explains why.
+
+![example posts](https://lilacchio.github.io/launch-signal/screenshots/tweets-section.png)
 
 ## Example
 
@@ -83,7 +91,7 @@ Followers: ~800
 
 ## What makes it different
 
-Most personal brand guides assume you already have an audience. `founder-freq` includes a **cold-start strategy** specifically for founders under 1,000 followers: 5 specific tactics for getting to 2,000 genuine followers, not vanity metrics. It also generates example posts written in your voice based on your actual inputs, not fill-in-the-blank templates.
+Most personal brand guides assume you already have an audience. `founder-freq` includes a cold-start strategy specifically for founders under 1,000 followers: 5 specific tactics for getting to 2,000 genuine followers, not vanity metrics. It also generates example posts written in your voice based on your actual inputs, not fill-in-the-blank templates.
 
 ## Built for
 
