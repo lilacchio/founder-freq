@@ -1,6 +1,7 @@
 ---
 name: founder-freq
 description: Build a complete personal brand strategy for a Solana founder on X. Trigger when a founder wants to define their voice, grow their audience, and establish a distinctive presence separate from their project account. Identifies the founder's archetype, generates content pillars, writing style guide, posting rhythm, engagement playbook, and 10 ready-to-post example posts written in their actual voice.
+when_to_use: When a founder or builder wants to grow their personal X account, develop their own voice, or build a personal brand separate from their project. Trigger on phrases like "help me grow on X", "what should I post", "build my personal brand", "I want to grow my Twitter", "write posts for me as a founder", "what's my archetype", "how do I get followers", or any request about a founder's personal social strategy on X.
 ---
 
 # founder-freq: Solana Founder Personal Brand Playbook
